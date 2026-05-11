@@ -1,9 +1,11 @@
 function syncLease(server) {
     if (!server) {
-        throw new Error("Server not found");
+        console.log("Invalid DHCP server data received");
+        return;
     }
 
+    console.log(server.toUpperCase());
     console.log(`Lease synchronized for ${server}`);
 }
 
-syncLease("Reliance-DHCP-Node");
+syncLease();
