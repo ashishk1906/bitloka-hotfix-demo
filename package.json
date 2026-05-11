@@ -1,0 +1,21 @@
+{
+  "name": "bitloka-hotfix-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dhcp-sync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishk1906/bitloka-hotfix-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ashishk1906/bitloka-hotfix-demo/issues"
+  },
+  "homepage": "https://github.com/ashishk1906/bitloka-hotfix-demo#readme"
+}
