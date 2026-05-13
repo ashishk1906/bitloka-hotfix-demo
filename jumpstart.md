@@ -1,4 +1,4 @@
-# Hotfix / CHF Management Application — Updated Jumpstart Instruction
+# Hotfix / CHF Management Application
 
 # Objective
 
